@@ -1,0 +1,10 @@
+.jumbotron{
+    color: white;
+    background-color: brown;
+}
+
+.panel-heading, #add-train{
+    background-color: blue;
+    color: white;
+}
+
