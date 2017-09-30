@@ -3,7 +3,7 @@
     background-color: brown;
 }
 
-.panel-heading, #add-train{
+#add-train{
     background-color: blue;
     color: white;
 }
